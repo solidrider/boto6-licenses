@@ -873,10 +873,7 @@
   "expo-file-system@19.0.22": {
     "licenses": "MIT"
   },
-  "expo-font@14.0.11": {
-    "licenses": "MIT"
-  },
-  "expo-font@56.0.7": {
+  "expo-font@14.0.12": {
     "licenses": "MIT"
   },
   "expo-json-utils@0.15.0": {
